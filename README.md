@@ -11,7 +11,7 @@
 環境によってはマイクの反応が悪い場合があります。マイクに近づくか大きな声で発音してください。
 ノートPCなどスピーカーとマイクが近い場合はマイクがスピーカーの音を拾ってしまうのでイヤホンでお聴きください。
 
-see [「あ」のうた -ah song- - wonderfl build flash online](http://wonderfl.net/c/9Zhv/read)  
+see [「あ」のうた -ah song- - wonderfl build flash online](http://wonderfl.net/c/9Zhv)  
 or   
 see [http://ton1517.github.com/DesignAh/](http://ton1517.github.com/DesignAh/)
 
